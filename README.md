@@ -10,7 +10,16 @@ The link to the webpage is:
 
 <b>Usage:</b>
 Below is a screenshot of the resulting webpage
-![sample]
+
+<b>MAIN PAGE</b>
+![main_screenshot](https://user-images.githubusercontent.com/74234842/100572089-c6167100-3328-11eb-88da-7cb7b1090a5a.png)
+
+<b>CONTACT FORM</b>
+![Contact_screenshot](https://user-images.githubusercontent.com/74234842/100572195-0675ef00-3329-11eb-8bd8-7a026610ab51.png)
+
+<b>PORTFOLIO OF IMAGES</b>
+![Portfolio_screenshot](https://user-images.githubusercontent.com/74234842/100572214-12fa4780-3329-11eb-93f7-9ee1ceeb15b3.png)
+
 
 <b> My Process</b>
 First I designed the site using a simple template. I then picked some of my favourite colours for the headings in my stylesheet. Then I decided how I wanted to group my images together based on categories - My Family & Friends, My Trips, My Milestones - as these seemed the most interesting areas to show any readers of the page. Lastly, I wrote my bio based on the main facts about myself that I found interesting and included links to my Linkedin and email in a contact section that I put in on the right-hand side of the page. 
